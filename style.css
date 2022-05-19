@@ -1,0 +1,32 @@
+
+.apgaubiamas {
+    width: 25%;
+    height: 250 px;
+    background-color: rgb(255, 250, 250);
+    border: 3px solid blue;
+}
+
+.left-blox {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20 px;
+    display: inline-block;
+    background-color: rgb(137, 146, 235);
+}
+.center-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20 px;
+    display: inline-block;
+    background-color: rgb(233, 156, 181);
+}
+.right-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20 px;
+    display: inline-block;
+    background-color: rgb(116, 231, 131);
+}
